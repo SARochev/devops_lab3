@@ -6,3 +6,5 @@ XXX
 ggggggg
 28.10
 28.10
+.
+bam
